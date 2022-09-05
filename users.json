@@ -1,0 +1,148 @@
+[{
+  "_id": {
+    "$oid": "62fb66f72d21bf0015e0b903"
+  },
+  "name": "Yajju kumar",
+  "email": "yajju.kumar.12@gmail.com",
+  "password": "$2a$10$a9Pfl2fEm1NWkckDByM7quidcPyHBsui3/CYcq9Cb1Jl.rVI.sfOG",
+  "contact": "8887776665",
+  "dob": {
+    "$date": {
+      "$numberLong": "1087344000000"
+    }
+  },
+  "gender": "Male",
+  "ticket": [],
+  "date": {
+    "$date": {
+      "$numberLong": "1660643063375"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62fb67032d21bf0015e0b906"
+  },
+  "name": "Yajju kumar",
+  "email": "yajju.kumar.16@gmail.com",
+  "password": "$2a$10$oBvyjPiAw93WZSkKFQyME.9VO1SqhZwL9yuhKP6oKqI8/j0hvAnUu",
+  "contact": "8887776665",
+  "dob": {
+    "$date": {
+      "$numberLong": "1087344000000"
+    }
+  },
+  "gender": "Male",
+  "ticket": [],
+  "date": {
+    "$date": {
+      "$numberLong": "1660643075661"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62fb67b97f787a4f78489549"
+  },
+  "ticket": [],
+  "name": "vicchu",
+  "email": "vicchu@gmail.com",
+  "password": "$2a$10$8M14riXEmMuRq3ur/9emEet7FWtDBDgKlCKiBy0bJsQKpl0pOGV.G",
+  "contact": "7766554433",
+  "dob": {
+    "$date": {
+      "$numberLong": "1660694400000"
+    }
+  },
+  "gender": "Female",
+  "date": {
+    "$date": {
+      "$numberLong": "1660643257308"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62fcafa2df5f6e76885a6fc8"
+  },
+  "ticket": [],
+  "name": "Veekshi",
+  "email": "veekshi@gmail.com",
+  "password": "$2a$10$Ln0VnO3ds9YKbJKBasPWF.quE4G/Y4t7Wwei7kW3abpSiJeR.s91e",
+  "contact": "7891234098",
+  "dob": {
+    "$date": {
+      "$numberLong": "1077062400000"
+    }
+  },
+  "gender": "Female",
+  "date": {
+    "$date": {
+      "$numberLong": "1660727202144"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62fdbbf76490201cf0f40a78"
+  },
+  "ticket": [],
+  "name": "Manns",
+  "email": "manns@gmail.com",
+  "password": "$2a$10$k0DqxJj0fpPBs5Z7MF1nH.6wqNi9A5Q6L8D/Y2dbO5zaNQue.3PRu",
+  "contact": "7865432123",
+  "dob": {
+    "$date": {
+      "$numberLong": "1657670400000"
+    }
+  },
+  "gender": "Male",
+  "date": {
+    "$date": {
+      "$numberLong": "1660795895480"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63031f830389c5216c0fedfd"
+  },
+  "ticket": [],
+  "name": "Bhas",
+  "email": "bhas@gmail.com",
+  "password": "$2a$10$fOwOnM5liLPRkjkvFVMedO537gmrZZJsSdne9XMuiu19siSnh4SYu",
+  "contact": "7897897891",
+  "dob": {
+    "$date": {
+      "$numberLong": "874022400000"
+    }
+  },
+  "gender": "Male",
+  "date": {
+    "$date": {
+      "$numberLong": "1661149059565"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63038dd20389c5216c0fee0a"
+  },
+  "ticket": [],
+  "name": "Dhanush",
+  "email": "dhanu@gmail.com",
+  "password": "$2a$10$yw7nXsdMMotzpqib3eSfkOT8EBlntze7NrIc5WCz/aXDCamLfOjxW",
+  "contact": "7091233456",
+  "dob": {
+    "$date": {
+      "$numberLong": "905558400000"
+    }
+  },
+  "gender": "Male",
+  "date": {
+    "$date": {
+      "$numberLong": "1661177298272"
+    }
+  },
+  "__v": 0
+}]

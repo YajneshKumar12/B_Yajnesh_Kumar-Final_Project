@@ -1,0 +1,260 @@
+[{
+  "_id": {
+    "$oid": "6129433c2fbbd90015910705"
+  },
+  "stops": [
+    "indore"
+  ],
+  "name": "volvo",
+  "company": "theavtar",
+  "date": {
+    "$date": {
+      "$numberLong": "1630094140852"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62801915899fb800151c1d85"
+  },
+  "stops": [
+    "Bangalore"
+  ],
+  "name": "super luxury",
+  "company": "APSTRC",
+  "date": {
+    "$date": {
+      "$numberLong": "1652562197660"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62dd197e85e86900157971da"
+  },
+  "stops": [
+    "Indore"
+  ],
+  "name": "Hans Travel",
+  "company": "Tripify",
+  "date": {
+    "$date": {
+      "$numberLong": "1658657150479"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62dd199685e86900157971e1"
+  },
+  "stops": [
+    "Hyderabad"
+  ],
+  "name": "Verma Travel",
+  "company": "Tripify",
+  "date": {
+    "$date": {
+      "$numberLong": "1658657174991"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62dd1a5185e86900157971f9"
+  },
+  "stops": [
+    "Bhopal",
+    "Nashik",
+    "Ujjain"
+  ],
+  "name": "Thakur Travel",
+  "company": "Tripify",
+  "date": {
+    "$date": {
+      "$numberLong": "1658657361819"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e8189e8d2147001509bc7a"
+  },
+  "stops": [
+    "DELHI",
+    "RAJASTHAN"
+  ],
+  "name": "Balaji bus new",
+  "company": "Balaji agency NEW",
+  "date": {
+    "$date": {
+      "$numberLong": "1659377822592"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62fb6364f0409d00150d9cda"
+  },
+  "stops": [
+    "mangalore",
+    "mumbai"
+  ],
+  "name": "mahesh",
+  "company": "motors",
+  "date": {
+    "$date": {
+      "$numberLong": "1660642148871"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62fb79b8853e9155e4323958"
+  },
+  "stops": [
+    "mangalore",
+    "bangalore"
+  ],
+  "name": "durgamba",
+  "company": "durgamba ",
+  "date": {
+    "$date": {
+      "$numberLong": "1660647864522"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62fd1654308ff96ed8e8c1ab"
+  },
+  "stops": [
+    "Bangalore",
+    "Mumbai"
+  ],
+  "name": "Vishal",
+  "company": "V Motors",
+  "date": {
+    "$date": {
+      "$numberLong": "1660753492035"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62fd168d308ff96ed8e8c1b2"
+  },
+  "stops": [
+    "Bangalore",
+    "Chennai"
+  ],
+  "name": "Golden",
+  "company": "G",
+  "date": {
+    "$date": {
+      "$numberLong": "1660753549182"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62fd16c5308ff96ed8e8c1b9"
+  },
+  "stops": [
+    "Chennai",
+    "Mumbai"
+  ],
+  "name": "PTC",
+  "company": "PTCC",
+  "date": {
+    "$date": {
+      "$numberLong": "1660753605604"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62fe05d316ceee5f2c37d7ec"
+  },
+  "stops": [
+    "Delhi",
+    "Mangalore",
+    "Bangalore",
+    "Kerala"
+  ],
+  "name": "SNS",
+  "company": "Yajnesh",
+  "date": {
+    "$date": {
+      "$numberLong": "1660814803973"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62fe05fc16ceee5f2c37d7f5"
+  },
+  "stops": [
+    "Chennai",
+    "Mangalore",
+    "Goa"
+  ],
+  "name": "Mookambika",
+  "company": "Yajnesh",
+  "date": {
+    "$date": {
+      "$numberLong": "1660814844846"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62fe064016ceee5f2c37d7fa"
+  },
+  "stops": [
+    "Hyderabad",
+    "Pune",
+    "Mumbai",
+    "Bangalore",
+    "Chennai"
+  ],
+  "name": "Pushparaj",
+  "company": "Yajnesh",
+  "date": {
+    "$date": {
+      "$numberLong": "1660814912067"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63038c40a4f83204d0790af4"
+  },
+  "stops": [
+    "Chennai",
+    "Bangalore"
+  ],
+  "name": "HDFC",
+  "company": "Priya",
+  "date": {
+    "$date": {
+      "$numberLong": "1661176896095"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63038c91a4f83204d0790afd"
+  },
+  "stops": [
+    "Mangalore",
+    "Bangalore"
+  ],
+  "name": "Yash",
+  "company": "Yashhh",
+  "date": {
+    "$date": {
+      "$numberLong": "1661176977448"
+    }
+  },
+  "__v": 0
+}]

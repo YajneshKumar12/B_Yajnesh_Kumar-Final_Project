@@ -1,0 +1,320 @@
+[{
+  "_id": {
+    "$oid": "62c8047a13b5b00015130ff9"
+  },
+  "name": "dsfa",
+  "company": "a",
+  "email": "dfafkdl@gmail.com",
+  "password": "$2a$10$WYgEuKmxmd6b6ORV1cBR2.peByiqLz7nRFpecVpn.8PPxrouudIqC",
+  "contact": "1234567890",
+  "gst": "a",
+  "buses": [
+    {
+      "stops": [
+        "b"
+      ],
+      "_id": {
+        "$oid": "62c804a113b5b0001513100b"
+      },
+      "name": "b",
+      "company": "b",
+      "date": {
+        "$date": {
+          "$numberLong": "1657275553757"
+        }
+      }
+    },
+    {
+      "stops": [
+        "b"
+      ],
+      "_id": {
+        "$oid": "62c804a013b5b00015131008"
+      },
+      "name": "b",
+      "company": "b",
+      "date": {
+        "$date": {
+          "$numberLong": "1657275552989"
+        }
+      }
+    },
+    {
+      "stops": [
+        "a"
+      ],
+      "_id": {
+        "$oid": "62c8048c13b5b00015130ffe"
+      },
+      "name": "a",
+      "company": "a",
+      "date": {
+        "$date": {
+          "$numberLong": "1657275532605"
+        }
+      }
+    }
+  ],
+  "date": {
+    "$date": {
+      "$numberLong": "1657275514982"
+    }
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "62fb6ea5c94c1472a8b391fa"
+  },
+  "name": "Yajnesh",
+  "company": "BYK",
+  "email": "yajju.kumar.12@gmail.com",
+  "password": "$2a$10$iK.0WYkKOHwIc57JXNSRLuZQsCUql9gm9tp9TrEki4mV8ym96h4ky",
+  "contact": "7019928370",
+  "gst": "1289067AAWW",
+  "buses": [
+    {
+      "stops": [
+        "Hyderabad",
+        "Pune",
+        "Mumbai",
+        "Bangalore",
+        "Chennai"
+      ],
+      "_id": {
+        "$oid": "62fe064016ceee5f2c37d7fc"
+      },
+      "name": "Pushparaj",
+      "company": "Yajnesh",
+      "date": {
+        "$date": {
+          "$numberLong": "1660814912073"
+        }
+      }
+    },
+    {
+      "stops": [
+        "Chennai",
+        "Mangalore",
+        "Goa"
+      ],
+      "_id": {
+        "$oid": "62fe05fc16ceee5f2c37d7f3"
+      },
+      "name": "Mookambika",
+      "company": "Yajnesh",
+      "date": {
+        "$date": {
+          "$numberLong": "1660814844835"
+        }
+      }
+    },
+    {
+      "stops": [
+        "Delhi",
+        "Mangalore",
+        "Bangalore",
+        "Kerala"
+      ],
+      "_id": {
+        "$oid": "62fe05d416ceee5f2c37d7ee"
+      },
+      "name": "SNS",
+      "company": "Yajnesh",
+      "date": {
+        "$date": {
+          "$numberLong": "1660814804017"
+        }
+      }
+    }
+  ],
+  "date": {
+    "$date": {
+      "$numberLong": "1660645029598"
+    }
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "62fb6f2f5bd1485afcf4c3de"
+  },
+  "name": "Yajnesh",
+  "company": "vvv",
+  "email": "yajju.kumar.13@gmail.com",
+  "password": "$2a$10$qECuMPdRCRfaFW6g7.aahO1IayH9hSe.uul/a7COF1ypHSUNCb8XW",
+  "contact": "8765432134",
+  "gst": "234567899087",
+  "buses": [],
+  "date": {
+    "$date": {
+      "$numberLong": "1660645167442"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62fb6fa6f0409d00150d9ced"
+  },
+  "name": "Vaishu",
+  "company": "tyk",
+  "email": "vais@gmail.com",
+  "password": "$2a$10$VE0La7mmDY3zPST5XnrKRO5h5GIZqNpNrkcGINiJCIHIGF2UAJHPK",
+  "contact": "7788993344",
+  "gst": "3447890022",
+  "buses": [],
+  "date": {
+    "$date": {
+      "$numberLong": "1660645286526"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62fb719b42543e71d41cffd2"
+  },
+  "name": "yashu",
+  "company": "yashu",
+  "email": "yajju.kumar.19@gmail.com",
+  "password": "$2a$10$VD3aagyWXzUGJhGQCvXW/u3W2wIsNl1zjbypa4PYNb7Ev1YXx9sz2",
+  "contact": "3344556677",
+  "gst": "766977GGTTW12",
+  "buses": [],
+  "date": {
+    "$date": {
+      "$numberLong": "1660645787858"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62fb7a460d860b7280ba9aaa"
+  },
+  "name": "shru",
+  "company": "shru",
+  "email": "shru@gmail.com",
+  "password": "$2a$10$H63qaK6DGAtsPSpcuNG5G.YSOKgyziOjiBc7S48Zy72f6KFeE1S4.",
+  "contact": "2233445566",
+  "gst": "4566887EE",
+  "buses": [],
+  "date": {
+    "$date": {
+      "$numberLong": "1660648006177"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62fd1627308ff96ed8e8c1a3"
+  },
+  "name": "Yajnesh K",
+  "company": "SSS",
+  "email": "yaj@gmail.com",
+  "password": "$2a$10$EOe0bzJWsIrCPVI9LY1PHOxcnWq6H8beFTaRhcC8YiPnpxQ6WQb.q",
+  "contact": "1234567890",
+  "gst": "SS12345678",
+  "buses": [
+    {
+      "stops": [
+        "Chennai",
+        "Mumbai"
+      ],
+      "_id": {
+        "$oid": "62fd16c5308ff96ed8e8c1b7"
+      },
+      "name": "PTC",
+      "company": "PTCC",
+      "date": {
+        "$date": {
+          "$numberLong": "1660753605597"
+        }
+      }
+    },
+    {
+      "stops": [
+        "Bangalore",
+        "Chennai"
+      ],
+      "_id": {
+        "$oid": "62fd168d308ff96ed8e8c1b0"
+      },
+      "name": "Golden",
+      "company": "G",
+      "date": {
+        "$date": {
+          "$numberLong": "1660753549173"
+        }
+      }
+    },
+    {
+      "stops": [
+        "Bangalore",
+        "Mumbai"
+      ],
+      "_id": {
+        "$oid": "62fd1653308ff96ed8e8c1a9"
+      },
+      "name": "Vishal",
+      "company": "V Motors",
+      "date": {
+        "$date": {
+          "$numberLong": "1660753491940"
+        }
+      }
+    }
+  ],
+  "date": {
+    "$date": {
+      "$numberLong": "1660753447608"
+    }
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "63038beea4f83204d0790aee"
+  },
+  "name": "Priya Mam",
+  "company": "MGSA",
+  "email": "priya@gmail.com",
+  "password": "$2a$10$Y2ddkVTSNjgAWrjeLPabhu3iD7Z05.oFH8sTMmzQcp697G94KwlLi",
+  "contact": "7890123456",
+  "gst": "MH123456789",
+  "buses": [
+    {
+      "stops": [
+        "Mangalore",
+        "Bangalore"
+      ],
+      "_id": {
+        "$oid": "63038c91a4f83204d0790afb"
+      },
+      "name": "Yash",
+      "company": "Yashhh",
+      "date": {
+        "$date": {
+          "$numberLong": "1661176977405"
+        }
+      }
+    },
+    {
+      "stops": [
+        "Chennai",
+        "Bangalore"
+      ],
+      "_id": {
+        "$oid": "63038c40a4f83204d0790af6"
+      },
+      "name": "HDFC",
+      "company": "Priya",
+      "date": {
+        "$date": {
+          "$numberLong": "1661176896157"
+        }
+      }
+    }
+  ],
+  "date": {
+    "$date": {
+      "$numberLong": "1661176814380"
+    }
+  },
+  "__v": 2
+}]
